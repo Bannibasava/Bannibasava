@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Banni Hiremath</h1>
 <h3 align="center">Java Developer | Learner | Coder</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bannibasava&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Bannibasava&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
 ### 🌐 Connect with me:
 <a href="https://www.linkedin.com/in/banni-basava-14053720b/" target="_blank">
