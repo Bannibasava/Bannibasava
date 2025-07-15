@@ -45,8 +45,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Bannibasava&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
----
 
-<p align="center"> 
-  <img src="https://github.com/Bannibasava/Bannibasava/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
