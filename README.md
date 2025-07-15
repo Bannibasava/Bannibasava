@@ -5,7 +5,7 @@
 
 ### 📊 Profile Views
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=banni-hiremath&label=Profile%20views&color=0e75b6&style=flat" alt="banni-hiremath" /> 
+  <img src="https://komarev.com/ghpvc/?username=Bannibasava&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
 </p>
 
 ---
@@ -39,12 +39,12 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=banni-hiremath&show_icons=true&theme=radical" alt="banni-hiremath" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bannibasava&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 🔥 Streak Stats
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=banni-hiremath&theme=radical" alt="banni-hiremath" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bannibasava&theme=radical" alt="GitHub Streak Stats" />
 </p>
