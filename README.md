@@ -7,15 +7,13 @@
 
 ---
 
-<div align="right">
-
 ### 🌐 Connect with me:
 <a href="https://www.linkedin.com/in/banni-basava-14053720b/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26px" />
 </a>
 &nbsp;
 <a href="https://www.instagram.com/banni_hiremath_/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="28px" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="26px" />
 </a>
 
 ---
@@ -30,18 +28,26 @@
 <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apache-tomcat&logoColor=black" />
 <img src="https://img.shields.io/badge/IBM%20DB2-003366?style=flat&logo=ibm&logoColor=white" />
 
+---
+
+### 📊 GitHub Stats + Most Used Languages
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Bannibasava&show_icons=true&theme=tokyonight" height="165"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bannibasava&layout=compact&theme=tokyonight" height="165"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bannibasava&show_icons=true&theme=tokyonight" width="70%" />
-</p>
-
----
-
-### 🔥 Streak Stats
+### 🔥 Streak Stats:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bannibasava&theme=tokyonight" width="70%" />
 </p>
